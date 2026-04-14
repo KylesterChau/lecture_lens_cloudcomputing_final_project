@@ -7,7 +7,7 @@
 // ----- Config -----
 // When the backend is running locally, point to it here.
 // Change to your deployed Azure App Service URL before production.
-const API_BASE = 'lecture-lens-app-hce0f6h7dqezc8cr.eastus2-01.azurewebsites.net';
+const API_BASE = 'https://lecture-lens-app-hce0f6h7dqezc8cr.eastus2-01.azurewebsites.net';
 
 // ----- State -----
 const state = {
